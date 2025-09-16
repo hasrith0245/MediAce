@@ -1,0 +1,7 @@
+{
+  "name": "MediAssist AI Triage",
+  "description": "An AI-driven medical triage application that provides immediate, safe, and clinically-informed guidance for common medical complaints. Users can enter symptoms, receive a triage analysis, and schedule appointments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
